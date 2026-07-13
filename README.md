@@ -22,7 +22,7 @@ This project demonstrates the deployment of a Production-Ready AWS Three-Tier Ar
 
 ## 🏗️ Architecture
 
-Architecture diagram is available in the **architecture** folder.
+[AWS 3-Tier Architecture] (https://raw.githubusercontent.com/Prateek-K-B/aws-3-tier-architecture-project/refs/heads/main/architecture/aws-three-tier-architecture.png)
 
 ## 📷 Project Screenshots
 
