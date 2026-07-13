@@ -26,7 +26,47 @@ This project demonstrates the deployment of a Production-Ready AWS Three-Tier Ar
 
 ## 📷 Project Screenshots
 
-Deployment screenshots are available in the **screenshots** folder.
+### VPC
+![VPC](screenshots/01-vpc.png)
+
+### Subnets
+![Subnets](screenshots/02-subnets.png)
+
+### Route Tables
+![Route Tables](screenshots/03-route-tables.png)
+
+### Internet Gateway
+![Internet Gateway](screenshots/04-internet-gateway.png)
+
+### NAT Gateway
+![NAT Gateway](screenshots/05-nat-gateway.png)
+
+### Security Groups
+![Security Groups](screenshots/06-security-groups.png)
+
+### Application Load Balancer
+![Application Load Balancer](screenshots/07-application-load-balancers.png)
+
+### Target Groups
+![Target Groups](screenshots/08-target-groups.png)
+
+### Launch Templates
+![Launch Templates](screenshots/09-launch-templates.png)
+
+### Auto Scaling Groups
+![Auto Scaling Groups](screenshots/10-auto-scaling-groups.png)
+
+### EC2 Instances
+![EC2 Instances](screenshots/11-ec2-instances.png)
+
+### DB Subnet Group
+![DB Subnet Group](screenshots/12-db-subnet-group.png)
+
+### RDS Database
+![RDS Database](screenshots/13-rds-database.png)
+
+### Final Working Application
+![Final Working](screenshots/14-three-tier-application-working.png)
 
 ## 🚀 Features
 
